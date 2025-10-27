@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on diffusion based medical image super-resolution<br>🌱 I’m currently learning QNN, Julia<br>👯 I’m looking to collaborate on deep learning, medical imaging, physiological signal processing<br>💬 Ask me about deep learning, Android, physiological signal<br>👨‍💻 All of my projects are available at https://jobayer.github.io/<br>📫 How to reach me jobayer@ieee.org
+🔭 I’m working on diffusion based medical image super-resolution<br>🌱 I’m currently learning QNN, Julia<br>👯 I’m looking to collaborate on deep learning, medical imaging, physiological signal processing<br>💬 Ask me about deep learning, Android, physiological signal<br>👨‍💻 All of my projects are available at https://jobayer.github.io/<br>📫 How to reach me jobayer@ieee.org
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jobayer&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
